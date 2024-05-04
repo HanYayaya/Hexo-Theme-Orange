@@ -1,0 +1,9 @@
+.MuiCardActions-root{
+    display: flex;
+    padding: 8px;
+    align-items: center;
+}
+
+.MuiCardActions-spacing{
+    margin-left: 8px;
+}

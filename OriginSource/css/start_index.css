@@ -1,0 +1,166 @@
+.jss1{
+    display: flex;
+    flex-grow: 1;
+    flex-direction: row;
+}
+
+.jss2{
+    text-align: center;
+}
+
+.jss3 {
+    margin: 0 auto;
+    display: flex;
+    padding: 2.0rem;
+    max-width: 960px;
+    flex-direction: column;
+}
+
+.jss4{
+    display: flex;
+    justify-content: center;
+}
+
+.jss8{
+    margin: 0px auto;
+    display: flex;
+    flex-direction: column;
+}
+
+.jss9{
+    text-align: center;
+    font-weight: bold;
+}
+
+.jss10{
+    text-align: center;
+    white-space: pre;
+}
+
+.jss11{
+    margin: 0.5rem;
+}
+
+.jss13{
+    display: flex;
+    flex-direction: column;
+}
+
+.jss14{
+    display: flex;
+}
+
+.jss15{
+    padding: 0.5rem;
+    flex-direction: column;
+}
+
+.jss16{
+    font-size: 16px;
+    font-weight: bold;
+}
+
+.jss18{
+    padding-left: 0.5rem;
+}
+
+.jss19{
+    max-height: 140px;
+}
+
+.iAuKip{
+    position: static;
+    top: 0px;
+    backdrop-filter: blur(6px);
+    padding: 12px;
+    z-index: 1000;
+    background: rgba(96, 94, 92, 0.5);
+    border-bottom: 1px solid hsla(0, 0%, 100%, 0.133);
+}
+
+.jBQCmD{
+    -webkit-box-pack: start;
+    justify-content: flex-start;
+    width: fit-content;
+    margin-right: auto;
+}
+
+.hOMLbr{
+    display: block;
+    padding: 0 0.75rem 1.5rem;
+    -webkit-box-flex: 1;
+    flex-grow: 1;
+    margin: 0px auto;
+    max-width: 992px;
+}
+
+.bTBBpV{
+    display: block;
+    margin: 0px -0.75rem;
+}
+
+.bdPTOA{
+    display: block;
+    order: 1;
+    width: 100%;
+    box-sizing: border-box;
+    flex: 0 0 auto;
+    padding: 0px 0.75rem;
+}
+
+.hrkwU{
+    display: none;
+    order: 3;
+    width: 100%;
+    box-sizing: border-box;
+    flex: 0 0 auto;
+    padding: 0px 0.75rem;
+}
+
+.bkuptC{
+    display: block;
+    order: 2;
+    width: 100%;
+    box-sizing: border-box;
+    flex: 0 0 auto;
+    padding: 0px 0.75rem;
+}
+
+.jss116{
+    display: flex;
+    padding: 0.5rem;
+}
+
+.jss122{
+    display: flex;
+    text-align: center;
+    flex-direction: column;
+}
+
+.jss124{
+    font-weight: bold;
+}
+
+.jss125{
+    font-size: 12px;
+    white-space: pre;
+}
+
+.landing-article{
+    flex-direction: row;
+}
+
+.landing-article-image{
+    margin-top: 18px !important;
+}
+
+.gatsby-image-wrapper{
+    position: relative;
+    overflow: hidden;
+}
+
+.gatsby-image-wrapper-constrained{
+    display: inline-block;
+    vertical-align: top;
+}
+

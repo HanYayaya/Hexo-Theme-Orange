@@ -1,0 +1,9 @@
+.MuiCardHeader-root{
+    display: flex;
+    padding: 16px;
+    align-items: center;
+}
+
+.MuiCardHeader-content{
+    flex: 1 1 auto;
+}

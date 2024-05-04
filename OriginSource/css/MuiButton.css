@@ -1,0 +1,32 @@
+.MuiButton-root{
+    color: #fff;
+    font-size: 0.875rem;
+    min-width: 64px;
+    box-sizing: border-box;
+    transition: background-color 250ms 
+        cubic-bezier(0.4, 0, 0.2, 1) 0ms, box-shadow 250ms
+        cubic-bezier(0.4, 0, 0.2, 1) 0ms, border 250ms
+        cubic-bezier(0.4, 0, 0.2, 1) 0ms;
+    font-family: "Roboto", "Helvetica", "Arial", sans-serif;
+    font-weight: 500;
+    line-height: 1.75;
+    border-radius: 4px;
+    letter-spacing: 0.02857em;
+    text-transform: uppercase;
+}
+
+.MuiButton-outlined{
+    border: 1px solid rgba(255, 255, 255, 0.23);
+    padding: 5px 15px;
+}
+
+.MuiButton-label{
+    width: 100%;
+    display: inherit;
+    align-items: inherit;
+    justify-content: inherit;
+}
+
+.MuiButton-text{
+    padding: 6px 8px;
+}
